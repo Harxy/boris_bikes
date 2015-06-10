@@ -1,9 +1,8 @@
 require 'borisBikes'
 
-describe 'boris_bikes' do
-  it "is a kind of dockingstation object" do
-    expect(dockingstation.new).to eq nil
-
-  end
+describe DockingStation do
+  # it "is a kind of dockingstation object" do
+  #   expect(DockingStation.new).to eq DockingStation
+  # end
 
 end

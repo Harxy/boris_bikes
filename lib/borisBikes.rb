@@ -1,7 +1,5 @@
-def boris_bikes
-#create docking station.
+class DockingStation
 
-end
 
-def dockingstation
+
 end
